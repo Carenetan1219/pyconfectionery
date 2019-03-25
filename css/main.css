@@ -21,9 +21,7 @@ h3, h4 {
 .person:hover {
   border-color: #f1f1f1;
 }
-.carousel-inner img {
-  -webkit-filter: grayscale(90%);
-  filter: grayscale(90%); /* make all photos black and white */ 
+.carousel-inner img { 
   width: 100%; /* Set width to 100% */
   margin: auto;
 }
